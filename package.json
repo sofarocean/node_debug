@@ -1,0 +1,15 @@
+{
+  "name": "node_debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser_generic_message.js",
+  "scripts": {
+    "test": "mocha track_message_2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
